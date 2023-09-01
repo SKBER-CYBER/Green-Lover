@@ -18,6 +18,8 @@ pip install lolcat
 
 pip install bs4
 
+rm -rf Green-Lover
+
 git clone https://github.com/SKBER-CYBER/Green-Lover
 
 cd Green-Lover
