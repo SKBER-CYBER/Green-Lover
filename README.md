@@ -24,8 +24,6 @@ cd Green-Lover
 
 python Lover.py
 
-free 2 days 
-
-ENTER KEY:SKBER-CYBER
+Note:(This tool is a paid so frist approval and injoy a paid tool)
 
 # Green-Lover
