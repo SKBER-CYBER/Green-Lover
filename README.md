@@ -24,7 +24,7 @@ git clone https://github.com/SKBER-CYBER/Green-Lover
 
 cd Green-Lover
 
-python Lover.py
+python Skber.py
 
 Note:(This tool is a paid so frist approval and injoy a paid tool)
 
